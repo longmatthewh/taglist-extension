@@ -1,0 +1,20 @@
+{
+  "name": "TagList",
+  "description": "Shop everywhere with just one list. Sign in with your Google account to get started.",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://taglist.io/"
+    ],
+    "launch":{
+      "web_url": "http://taglist.io/"
+    }
+  },
+  "offline_enabled": false,
+  "icons": {
+    "16": "icon-16.png",
+    "48": "icon-48.png",
+    "128": "icon-128.png"
+  }
+}
